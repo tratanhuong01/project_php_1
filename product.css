@@ -1,0 +1,23 @@
+
+.locSanPham form {position: relative;left: 70%;}
+
+.locSanPham form select {
+    width: 200px;
+    padding: 10px;
+}
+
+.locSanPham form button {
+    padding: 10px;
+}
+
+.locSanPham {
+    width: 100%;
+    display: flex;
+    padding: 16px 0px;
+}
+
+.locSanPham p {
+    line-height: 40px;
+    font-size: 24px;
+    font-weight: bold;
+}

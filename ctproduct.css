@@ -1,0 +1,80 @@
+div#infoct {
+    width: 100%;
+    display: flex;
+    padding: 2em 0em;
+}
+
+div#spCungGia {
+    width: 25%;
+}
+
+.cttt-sanphams {
+    width: 75%;
+    display: flex;
+}
+
+.cttt-left {
+    width: 40%;
+}
+
+.cttt-right {
+    width: 60%;
+}
+.clone-sp {
+    width: 100%;
+    display: flex;
+}
+
+.spCungGia-img {
+    width: 25%;
+}
+
+.spCungGia-img img {
+    width: 100%;
+}
+
+.spCungGia-info {
+    width: 75%;
+    padding: 0px 8px;
+}
+
+.cttt-left img {
+    width: 90%;
+    padding: 0em 1em;
+}
+
+.formSoL {
+    width: 100%;
+    display: flex;
+}
+
+.formSoL-Left {
+    width: 40%;
+}
+
+.formSoL-right {
+    width: 60%;
+}
+.formSoL-Left button {
+    width: 35px;
+    height: 35px;
+}
+
+.formSoL-Left input {
+    width: 60px;
+    height: 30px;
+}
+.cttt-right b {
+    line-height: 34px;
+    font-size: 17px;
+}
+
+.cttt-right span {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.cttt-right span {
+    line-height: 34px;
+}
+.formSoL-right button {padding: 14px;margin: 13px;}
